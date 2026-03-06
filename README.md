@@ -1,0 +1,1 @@
+E-Learning Salon Website – A modern, responsive e-learning platform with a salon-themed design. Features unique, interactive course cards, appealing light color palette, and user-friendly navigation. Built with HTML, CSS, and JavaScript, fully responsive and easy to customize.
